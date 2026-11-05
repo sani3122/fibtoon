@@ -7,7 +7,7 @@ import concurrent.futures
 from urllib.parse import urlparse
 
 # --- Configuration ---
-BASE_URL = "https://fibwatch.art"
+BASE_URL = "https://fibtoon.top/"
 PAGES_TO_SCAN = 5
 FILE_NAME = "latest_movies.m3u"
 GROUP_NAME = "Fibwatch Latest"
