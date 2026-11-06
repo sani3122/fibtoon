@@ -8,7 +8,7 @@ from urllib.parse import urlparse
 
 # --- Configuration ---
 BASE_URL = "https://fibtoon.top/"
-PAGES_TO_SCAN = 20
+PAGES_TO_SCAN = 500
 FILE_NAME = "latest_movies.m3u"
 GROUP_NAME = "Fibwatch Latest"
 IMAGE_PROXY = "https://srhady-live-stream.hf.space/image?url="
